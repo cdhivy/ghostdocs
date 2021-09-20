@@ -71,7 +71,7 @@
     "gatsby-transformer-remark": "2.4.0",
     "gatsby-transformer-sharp": "2.1.21",
     "gatsby-transformer-yaml": "2.1.12",
-    "prismjs": "1.23.0",
+    "prismjs": "1.25.0",
     "react": "16.8.6",
     "react-autosuggest": "9.4.3",
     "react-dom": "16.8.6",
